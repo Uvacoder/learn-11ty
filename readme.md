@@ -1,5 +1,5 @@
 # Learn Eleventy From Scratch
-
+---
 This course was originally authored by [Andy Bell](//twitter.com/piccalilli_) and published on [Piccalilli](https://piccalil.li).
 
 > ⚠️This content is likely out of date
