@@ -1,4 +1,7 @@
 # Learn Eleventy From Scratch
+
+https://learneleventyfromscratch.com
+
 ---
 This course was originally authored by [Andy Bell](//twitter.com/piccalilli_) and published on [Piccalilli](https://piccalil.li).
 
